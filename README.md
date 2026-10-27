@@ -144,7 +144,3 @@ Each SQL file opens with a comment block covering the business question, the met
 ## Tools
 
 **Google BigQuery** (SQL) · **Data Studio** (dashboard)
-
----
-
-*Phyo Paing · [Portfolio](https://phyopaing75.github.io/phyopaing-portfolio) · [LinkedIn](https://www.linkedin.com/in/phyo-paing-4b0477189/) · [GitHub](https://github.com/phyopaing75)*
