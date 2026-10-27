@@ -4,8 +4,6 @@
 
 **[View the interactive dashboard →](https://datastudio.google.com/reporting/a1bce2d1-7fcb-4bfb-b94c-0754ac625020)**
 
-![Dashboard](images/dashboard.png)
-
 ---
 
 ## Business problem
