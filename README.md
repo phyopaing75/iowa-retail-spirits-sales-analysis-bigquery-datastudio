@@ -17,7 +17,7 @@ A convenience-store chain must decide whether to **expand spirits shelf space** 
 
 | | |
 |---|---|
-| **Source** | [Iowa Liquor Sales](https://catalog.data.gov/dataset/iowa-liquor-sales), BigQuery public dataset `bigquery-public-data.iowa_liquor_sales.sales` |
+| **Source** | BigQuery public dataset `bigquery-public-data.iowa_liquor_sales.sales` |
 | **What it records** | Iowa is an alcohol *control state*: the state is the only spirits wholesaler, so every licensed store's spirits purchase is recorded (store, product, category, bottle size, bottles, dollars, liters) |
 | **Full dataset** | 34.0M rows, Jan 2012 – Apr 2026 |
 | **Analysis window** | 3 full years, 2023–2025: **7.7M rows**, thousands of stores |
