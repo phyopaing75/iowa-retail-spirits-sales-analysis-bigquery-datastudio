@@ -1,4 +1,4 @@
-# Iowa Spirits: Convenience Store Category Review (BigQuery + Looker Studio)
+# Iowa Spirits: Convenience Store Category Review (BigQuery + Data Studio)
 
 > **Convenience stores' spirits sales fell 4.7% like-for-like (2023–2025); their apparent market-share gain came only from a net 85 more stores. Reallocating shelf space to small-format bourbon, 100% agave tequila and RTD cocktails is worth up to ≈ $4,000 per store per year, enough to offset the decline.**
 
