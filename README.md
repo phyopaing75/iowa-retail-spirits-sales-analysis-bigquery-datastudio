@@ -119,20 +119,17 @@ Categories I left out on purpose: imported vodkas (market flat, +0.5%), gift/spe
 
 ```
 ├── README.md
-├── images/
-│   └── dashboard.png
-└── sql/
-    ├── 01_check_date_range.sql            # source size & date range
-    ├── 02_create_sales_raw.sql            # fact table (2023–2025)
-    ├── 03_create_stores_dimension.sql     # store dimension + store_type
-    ├── 04_check_store_classification.sql  # validation & refinement
-    ├── 05_q1_same_store.sql               # Q1: same-store totals by year
-    ├── 06_q1_growth_summary.sql           # Q1: growth = volume + price
-    ├── 07_q1_market_share.sql             # Q1: market share, all stores
-    ├── 08_q2_category_index.sql           # Q2: category index vs. growth
-    ├── 09_q2_bottle_size_index.sql        # Q2: bottle-size index
-    ├── 10_q2_small_bottle_trend.sql       # Q2: small-bottle mix trend
-    └── 11_q3_opportunity.sql              # Q3: opportunity sizing
+├── 01_check_date_range.sql            # source size & date range
+├── 02_create_sales_raw.sql            # fact table (2023–2025)
+├── 03_create_stores_dimension.sql     # store dimension + store_type
+├── 04_check_store_classification.sql  # validation & refinement
+├── 05_q1_same_store.sql               # Q1: same-store totals by year
+├── 06_q1_growth_summary.sql           # Q1: growth = volume + price
+├── 07_q1_market_share.sql             # Q1: market share, all stores
+├── 08_q2_category_index.sql           # Q2: category index vs. growth
+├── 09_q2_bottle_size_index.sql        # Q2: bottle-size index
+├── 10_q2_small_bottle_trend.sql       # Q2: small-bottle mix trend
+└── 11_q3_opportunity.sql              # Q3: opportunity sizing
 ```
 
 Each SQL file opens with a comment block covering the business question, the method, the actual result and the insight.
@@ -146,7 +143,7 @@ Each SQL file opens with a comment block covering the business question, the met
 
 ## Tools
 
-**Google BigQuery** (SQL) · **Looker Studio** (dashboard)
+**Google BigQuery** (SQL) · **Data Studio** (dashboard)
 
 ---
 
